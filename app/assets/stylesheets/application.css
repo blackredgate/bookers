@@ -32,3 +32,60 @@ header{
 .top-link{
   margin: 0 60px;
 }
+
+main{
+  margin: 20px 0 20px 20px;
+}
+
+    .index{
+      margin: 10px 0 0 20px;
+    }
+    
+    .book-table{
+      width: 700px;
+    }
+    
+    .book-table th{
+      text-align: center;
+    }
+    
+    .book-table td{
+      font-size: 13px;
+    }
+    
+      .table-title{
+        width: 30%;
+      }
+      
+      .table-body{
+        width: 50%;
+      }
+      
+      .table-link{
+        padding: 0 5px;
+        font-size: 11px
+      }
+        
+    .new-book-form{
+      margin: 20px;
+    }
+    
+    .form-title{
+      font-size: 13px
+    }
+  
+.show-main{
+  margin: 20px 60px;
+  line-height: 4;
+  font-size: 14px;
+}
+
+.link-space{
+  margin: 0 30px;
+}
+
+@media screen and (max-width:1024px){
+  .book-table{
+    width: 100%;
+  }
+}
