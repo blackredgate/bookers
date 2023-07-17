@@ -84,6 +84,11 @@ main{
   margin: 0 30px;
 }
 
+.flash-message{
+  padding: 20px 0 20px 30px;
+  color: #006400;
+}
+
 @media screen and (max-width:1024px){
   .book-table{
     width: 100%;
