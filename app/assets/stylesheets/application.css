@@ -67,11 +67,33 @@ main{
       }
         
     .new-book-form{
-      margin: 20px;
+      padding: 20px;
     }
     
     .form-title{
       font-size: 13px
+    }
+    
+    .error-area{
+      width: 45%;
+      margin: 0 30px;
+      border-color: red;
+      border: 5px solid red;
+    }
+    
+    .error-title{
+      background-color: red;
+    }
+    
+    .error-title p{
+      padding:5px 20px;
+    }
+    
+    .error-message{
+      padding: 30px;
+      font-size: 10px;
+      background-color: white;
+      
     }
   
 .show-main{
